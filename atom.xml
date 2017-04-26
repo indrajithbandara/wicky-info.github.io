@@ -4,7 +4,7 @@
   <title><![CDATA[My Blog]]></title>
   <link href="http://wicky-info.github.io/atom.xml" rel="self"/>
   <link href="http://wicky-info.github.io/"/>
-  <updated>2017-04-26T18:59:50+07:00</updated>
+  <updated>2017-04-26T19:02:58+07:00</updated>
   <id>http://wicky-info.github.io/</id>
   <author>
     <name><![CDATA[Wicky Andrean]]></name>
@@ -20,8 +20,12 @@
     <id>http://wicky-info.github.io/blog/2017/04/26/first-post</id>
     <content type="html"><![CDATA[<h2>Lorem Ipsum</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+
+<!--more-->
+
+
+<p>tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
