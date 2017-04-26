@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[My Blog]]></title>
   <link href="http://wicky-info.github.io/atom.xml" rel="self"/>
   <link href="http://wicky-info.github.io/"/>
-  <updated>2017-04-26T18:47:18+07:00</updated>
+  <updated>2017-04-26T18:59:50+07:00</updated>
   <id>http://wicky-info.github.io/</id>
   <author>
     <name><![CDATA[Wicky Andrean]]></name>
@@ -12,5 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://wicky-info.github.io/blog/2017/04/26/first-post/"/>
+    <updated>2017-04-26T18:53:30+07:00</updated>
+    <id>http://wicky-info.github.io/blog/2017/04/26/first-post</id>
+    <content type="html"><![CDATA[<h2>Lorem Ipsum</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+]]></content>
+  </entry>
   
 </feed>
