@@ -4,7 +4,7 @@
   <title><![CDATA[wicky-info]]></title>
   <link href="http://wicky-info.github.io/atom.xml" rel="self"/>
   <link href="http://wicky-info.github.io/"/>
-  <updated>2017-04-26T19:16:26+07:00</updated>
+  <updated>2017-04-26T19:32:48+07:00</updated>
   <id>http://wicky-info.github.io/</id>
   <author>
     <name><![CDATA[Wicky Andrean]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://wicky-info.github.io/blog/2017/04/26/first-post/"/>
+    <link href="http://wicky-info.github.io/first-post/"/>
     <updated>2017-04-26T18:53:30+07:00</updated>
-    <id>http://wicky-info.github.io/blog/2017/04/26/first-post</id>
+    <id>http://wicky-info.github.io/first-post</id>
     <content type="html"><![CDATA[<h2>Lorem Ipsum</h2>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
